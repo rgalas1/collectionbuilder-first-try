@@ -12,7 +12,7 @@
 url: https://rgalas1.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-first-try 
+baseurl: rgalas1/collectionbuilder-first-try 
 # location of code, the full url to your github repository
 source-code: https://github.com/rgalas1/collectionbuilder-gh
 
