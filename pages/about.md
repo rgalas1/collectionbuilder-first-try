@@ -17,7 +17,7 @@ credits: true
 This is the content about the Pyschiana collection.
 This is in the first section of the About page.
 
-{% include feature/item-figure.html objectid="pyschiana018" width="50" %}
+{% include feature/item-figure.html objectid="psychiana018" width="50" %}
 
 ## This is the second section
 
